@@ -22,7 +22,7 @@ td { font-weight: bold;
 #instructions { border: 3px double grey; width:850px; background-color: #b5d6ff;
 background-color: #b5d6ff 0%;
 background-image: #b5d6ff;
-text-align: center;
+text-align: left;
 color: white;
- margin-left:80px;
+ margin-left:100px;
 font-family: Century Gothic;border-radius: 12px;}
